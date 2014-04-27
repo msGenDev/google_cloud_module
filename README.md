@@ -6,6 +6,6 @@ UVU CS 4690 student lesson module
 constructed by Michael Hargiss and Ethan Welborne
 
 (based on lessons created by Pluralsight.com)
---------------------------
 
 For a brief presentation of this module's goals, visit <a href='https://docs.google.com/presentation/d/1bopbNtcZ1RRC72WMG2beCFH4CU2pYYTIlBJ5_EMBMHE/pub?start=true&loop=true&delayms=3000' title='Google Doc slideshow' target='_window'>this Google Doc slideshow</a>.
+--------------------------
